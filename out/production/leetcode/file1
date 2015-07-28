@@ -1,0 +1,12 @@
+{
+    "apps": "com.htc.share com.htc.getstarted",
+    "filter": "account_id=df13da3c-64ae-4d54-a9fb-c87945532897 AND model_id=PN0710000",
+    "gcm_collapes_key": "update_app",
+    "gcm_delay_while_idel": true,
+    "id": 1,
+    "msg": {
+      "name_1": "value1",
+      "name_2": "value2",
+      "name_3": "value3"
+    }
+}
